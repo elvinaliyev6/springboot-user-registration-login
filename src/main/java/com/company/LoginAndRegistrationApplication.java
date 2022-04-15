@@ -8,7 +8,7 @@ public class LoginAndRegistrationApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LoginAndRegistrationApplication.class, args);
-        //17.42
+
     }
 
 }
