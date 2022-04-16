@@ -8,6 +8,7 @@ class LoginAndRegistrationApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
